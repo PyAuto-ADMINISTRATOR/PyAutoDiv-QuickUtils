@@ -1,0 +1,24 @@
+Copyright (c) PythonAutomaticDivision
+All rights reserved.
+
+R0 License. MAX PERMISSIONS.
+
+The Software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, and noninfringement. In no event shall the Authors be liable
+for any claim, damages, or other liability, whether in an action of contract, tort,
+or otherwise, arising from, out of, or in connection with the Software or the use
+or other dealings in the Software.
+
+DEFINITIONS
+Software - all items provided by the Authors
+Authors - all members of PythonAutomaticDivision that are the ADMINISTRATOR or an AGENT.
+Users - all people recieving the Software
+PythonAutomaticDivision - the group founded by Yisitluke, authored by PyAuto-ADMINISTRATOR.
+
+
+WHAT USERS ARE ALLOWED TO DO
+Modification - Modification of the Software is allowed in ANY context with no limit.
+Use - Unlimited use of the Software.
+Source View - Viewing of the Software is unlimited, and allowed in any area.
+Redistribution - Redistribution of the Software is unlimited. Authors' attribution IS NOT required.
