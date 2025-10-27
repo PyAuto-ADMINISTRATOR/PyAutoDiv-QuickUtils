@@ -7,13 +7,10 @@ def main():
     allowed = [
         "txt",
         "py",
-        "pyw",
         "json",
         "c",
         "cpp",
         "sh",
-        "cfg",
-        "gd",
         "h"
     ]
     curr = os.path.abspath(__file__)
